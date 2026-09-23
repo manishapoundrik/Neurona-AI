@@ -26,7 +26,7 @@ ${state.prompt}
     const intent=intentRes.content
     if(intent=="CODE_GENERATION"){
         const prompt=`
-        You are NexoraAI Coding Agent.
+        You are NeuronaAI Coding Agent.
 
 Generate the requested project.
 

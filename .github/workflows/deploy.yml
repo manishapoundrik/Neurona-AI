@@ -1,4 +1,4 @@
-name: Nexora ai deployment
+name: Neurona ai deployment
 
 on:
  push:

@@ -14,7 +14,7 @@ export const imageAnalyzer =async (state) => {
 
         const messages = [
             new SystemMessage(
-                `You are NexoraAI image analyzer Agent.
+                `You are NeuronaAI image analyzer Agent.
 
 Rules:
 

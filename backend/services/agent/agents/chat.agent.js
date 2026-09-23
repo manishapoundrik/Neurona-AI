@@ -26,7 +26,7 @@ Answer the user using only the above search results.
 
 
     const systemPrompt = `
-    You are NexoraAI, an intelligent AI assistant.
+    You are NeuronaAI, an intelligent AI assistant.
 
  
     ${searchContext}

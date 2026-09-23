@@ -7,9 +7,9 @@ import { getAuth, GoogleAuthProvider} from "firebase/auth";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "nexora-da912.firebaseapp.com",
-  projectId: "nexora-da912",
-  storageBucket: "nexora-da912.firebasestorage.app",
+  authDomain: "Neurona-da912.firebaseapp.com",
+  projectId: "Neurona-da912",
+  storageBucket: "Neurona-da912.firebasestorage.app",
   messagingSenderId: "193812721235",
   appId: "1:193812721235:web:95b0d8f5e2107dad2c20a6"
 };
